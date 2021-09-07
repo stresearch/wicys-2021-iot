@@ -102,4 +102,4 @@ cd wicys-2021-iot/analysis/
 jupyter-notebook --ip=0.0.0.0
 ```
 
-Copy the last URL and type it into your browser, and you'll be able to access the notebooks. Open `CSV_Playground.ipynb`
+Copy the last URL and type it into your browser, and you'll be able to access the notebooks. Open `wicys-iot-workshop-analysis.ipynb`
